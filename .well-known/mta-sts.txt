@@ -1,4 +1,0 @@
-version: STSv1
-mode: enforce
-mx: hebe-homes.mail.protection.outlook.com
-max_age: 10000000
